@@ -1,0 +1,21 @@
+.glass {
+  width: 800px;
+  max-width: 70%;
+border-right-width: 90px;
+        height:300px ;
+        background-color: rgba(255, 255, 255, 0.2); /* Transparent white */
+        border-radius: 40px;
+      margin: 10%;
+      transform: translate(-70px);
+      display: block;
+        backdrop-filter: blur(10px); /* Apply the glass effect */
+      }
+
+body{
+    background-color: rgb(34, 28, 28);
+    width:110%;
+   
+}
+h1{
+  color: rgb(195, 233, 26);
+}
